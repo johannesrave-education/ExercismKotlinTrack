@@ -1,4 +1,4 @@
-# Excluded directories in every challenge
+# Project exclude paths
 **/build/
 **/gradle/
 **/.exercism/
