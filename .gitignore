@@ -6,7 +6,7 @@
 **/.idea/
 
 # Excluded files in challenges
-build.gradle.kts
+#build.gradle.kts
 gradlew
 gradlew.bat
 *.iml
