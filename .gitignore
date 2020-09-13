@@ -1,10 +1,12 @@
-# Project exclude paths
-/dnd-character/.gradle/
-/dnd-character/build/
-/hello-world/.exercism/
-/hello-world/.gradle/
-/hello-world/build/
-/reverse-string/.gradle/
-/reverse-string/build/
+# Excluded directories in every challenge
+**/build/
+**/gradle/
+**/.exercism/
+**/.gradle/
+**/.idea/
 
-*/build/
+# Excluded files in challenges
+build.gradle.kts
+gradlew
+gradlew.bat
+*.iml
